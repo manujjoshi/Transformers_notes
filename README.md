@@ -2,7 +2,7 @@
 # This repository also contains different BERT variants.
 
 Regards
-Manuj Joshi
-Associate Data Scientist
+<br>Manuj Joshi
+<br>Associate Data Scientist
 
 ## Happy Learning!!
