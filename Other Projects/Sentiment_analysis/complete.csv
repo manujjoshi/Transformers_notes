@@ -1,0 +1,595 @@
+,sentence,tag
+0,"Welcome to celebal tech,IVR automation demo.",Neutral
+1,"Hello. Hi, how are you?",Neutral
+2,"I'm fine. Thank you for calling CT,Health insurance,My name is Prashanth, how can I help you today?",Positive
+3,I have an health policy with you. I wanted to know when do I need to renew the policy.,Neutral
+4,"Of course I can do that,Could you please confirm few details before I give you the necessary information? Could you please tell me your registered mobile number?",Neutral
+5,"Yeah, sure, my mobile number is 9996668887.",Positive
+6,"I can confirm that you have active health insurance policy with us,Can you confirm your name and date of birth for authentication?",Positive
+7,Sure. My name is Manoj and my date of birth is 20 June 1999.,Positive
+8,"Thanks for confirmation,I can see that your policy is due for the renewal on 25th August 2021, which is in,Two weeks from now,You can renew either for one year or two years. The one year option is,2020,And 2 year option is,3690.",Positive
+9,"I want to go for two,year option.",Positive
+10,"Would you like me to generate a payment link,For renewal of this option.",Neutral
+11,"Yeah, sure.",Neutral
+12,"Sure, I will share the link with you shortly.",Neutral
+13,I have a doubt. Will this policy cover my family as well?,Negative
+14,"Yes,Your current policy covers you, your spouse, and your parent.",Neutral
+15,OK. Can you send me the payment link?,Neutral
+16,Of course you will receive a payment link on your registered mobile number and email address.,Neutral
+17,Thank you.,Positive
+18,"Hello everyone,This IVR automation for banking is powered by celebal technologies.",Positive
+19,OK.,Neutral
+20,"Hi I am Prashanth calling you from celebal tech bank,We have an EMI offer specially created for you. Would you like to know more about the offer?",Positive
+21,"Yes, I want to know.",Positive
+22,"This call is being recorded by celebal tech bank,For security reasons, please do not share your CVV and OTP with anyone,As I can see here transaction of 40,000 done on myntra,Would you like to convert this into EMI?",Neutral
+23,"No, not this one.",Negative
+24,"OK,I can also see a transaction of 25,000 done on,Nyka would you,Like to convert this into EMI.",Neutral
+25,I want the transaction done on Nyka.,Neutral
+26,"That's great,You have done a transaction of 25,000,On Nyka, would you like to convert this into EMI?",Positive
+27,I didn't get you. Can you repeat?,Negative
+28,"That's great,You have done a transaction of 25,000 on nyka. Would you like to convert this into EMI?",Positive
+29,Hold on for a second.,Negative
+30,"Sure, I will hold. Please let me know when to continue.",Neutral
+31,"Yes, What you were saying.",Neutral
+32,"Sure. I was saying that's great. You have done a transaction of 25,000 on nyka. Would you like to convert this into EMI?",Positive
+33,"Yes, sure.",Positive
+34,"That's a great choice, Sir,Could you please confirm at what tenure,Would you be interested in?",Positive
+35,What is tenure period?,Neutral
+36,"Set up,The tenure period is the number of months in which you pay your EMI for the transaction amount,So can you please let me,The tenure period.",Neutral
+37,What will be the monthly payment for 9 month EMI option?,Neutral
+38,"Sure,According to the tenure period of nine months, the monthly amount payable will be,1600 it will consist of 12% plus tax on the interest amount. Should I proceed?",Neutral
+39,I want six month EMI option.,Neutral
+40,"Sure. Let me brief you,According to the tenure period of six months,Your first EMI installment will be 2171 with the interest rate of 12%,And there is also a one time,Processing fee applicable which will be of 450 excluding service tax. This processing fee place your first EMI will be included in your upcoming bill. Should I proceed?",Neutral
+41,"What will happen,If I preclose this EMI.",Negative
+42,"Mr Manoj, your total transaction amount is 25,000,And the EMI will be 2171,for 6 months of EMI,The EMI consists of principle amount plus tax on interest,Which will keep on reducing every month. I hope the details are clear. Should I proceed?",Neutral
+43,"Yes, proceed.",Positive
+44,"Thank you Sir. The EMI amount will be temporarily kept on hold in your credit card limit and when you pay your EMI the limit will be released. Hope you are clear with this information. Please confirm few details,Like credit limit and date of birth.",Positive
+45,Can you repeat again?,Negative
+46,"Thank you, Sir. That EMI amount will be temporarily kept on hold in your credit card limit,And when you pay your EMI, the limit will be released. Hope you are clear with this information. Please confirm few details like credit limit and date of birth.",Positive
+47,But you told me not to share any details.,Negative
+48,"Sir, I am not asking for sensitive information. We need this details for verification purpose. So should I proceed?",Neutral
+49,Yes.,Positive
+50,Thank you. Can you tell me your credit limit?,Positive
+51,"My credit limit is 90,000.",Neutral
+52,"Thanks for confirming your credit limit,Can you please help me with your postal code?",Positive
+53,My postal code is 263139.,Neutral
+54,"Thanks for confirming your postal code,Can you please help me with your date of birth?",Positive
+55,Two May 1975.,Neutral
+56,"We are all done,You will receive an email update shortly. Have a wonderful day ahead. Keep banking with celebal tech bank. Thank you.",Positive
+57,Thank you.,Positive
+58,"Hello everyone,This IVR automation for banking is powered by celebal technologies.",Positive
+59,Hi.,Neutral
+60,"Hi,I am Prashanth calling you from Celebal Tech Bank,We have an EMI offer specially created for you. Do you want to know more about this offer?",Positive
+61,"Yes, sure.",Positive
+62,"This call is being recorded by celebal tech bank. Please do not share your CVV and OTP with anyone for security reasons,As I can see from this picture, it transaction of 14,000 was done on Flipkart,Would you like to convert this into EMI?",Neutral
+63,I want a loan instead.,Negative
+64,What type of loan do you need?,Neutral
+65,I need a study loan for my masters.,Neutral
+66,How much money will you need for this loan?,Neutral
+67,I need 9 Lacs.,Neutral
+68,"I have locked,You were didn't our customer representative will reach out to you soon? Keep banking with celebal tech bank. Thank you.",Positive
+69,Thank you very much.,Positive
+70,Welcome to celebal Technologies IVR Automation demo.,Positive
+71,I can help with bank related queries.,Positive
+72,Hello.,Positive
+73,Hello I am Prashanth calling from celebal bank.,Neutral
+74,Am I talking to Mr Manoj?,Neutral
+75,Yes you are.,Positive
+76,Thanks for confirming your name Manoj.,Positive
+77,This call is being recorded by celebal Bank for security reasons. Please do not share your CVV and OTP with anyone.,Negative
+78,Sure. OK.,Positive
+79,"I can see that you have recently done the transaction of 42,000 from Flipkart on 16th October 2021 through your credit card.",Neutral
+80,You can instantly get this amount converted into EMI.,Positive
+81,Would you like to convert this transaction into EMI?,Neutral
+82,I am ready to pay full payment.,Negative
+83,"That's great, Sir.",Positive
+84,"But the EMI offer will reduce your one time payment burden, so please allow me to suggest you a great offer.",Positive
+85,"No, I don't want to go for EMI option.",Negative
+86,"Sir, by opting for EMI, you won't block a big amount and it won't affect your monthly budget.",Positive
+87,So should I proceed?,Neutral
+88,No.,Negative
+89,I am happy with full payment option.,Positive
+90,"That's great, Sir. Thank you for your valuable time. Keep banking with celebal tech bank. Thank you.",Positive
+91,Thank you.,Positive
+92,"Hello everyone,This IVR automation for banking is powered by celebal technologies.",Positive
+93,Hi.,Neutral
+94,"Hi,I am Prashanth calling you from celebal tech bank. We have an EMI offer specially created for you. Would you like to know more about the offer?",Positive
+95,"Yeah, sure.",Positive
+96,"This call is being recorded by celebal tech Bank,For security reasons, please do not share your CVV and OTP with anyone,As I can see a transaction of 25,000 done on Amazon. Would you like to convert this into EMI?",Neutral
+97,"Yes, convert this one.",Positive
+98,"That's a great choice, Sir. Could you please confirm at what tenure,Would you be interested in?",Positive
+99,Tell me the monthly payment for tenure period of six months.,Neutral
+100,"Sure, according to the tenure period of six months, the monthly amount payable will be,5432 it will consist of 12% plus tax on the interest amount. Should I proceed?",Neutral
+101,"No,I want to talk to your,Agent.",Negative
+102,"OK, Please wait while we are transferring this call to our agent.",Neutral
+103,"Welcome to celebal Technologies IVR atuomation demo,I can help with bank related queries.",Positive
+104,"I want to,Upgrade my,Online transaction limit for my credit card.",Neutral
+105,"Sure,I can help with updating your transaction limit on your credit card,I can see your current limit is set to,Two Lacs,For online transactions,To what amount you would like to set the new limit too.",Positive
+106,"I want to,Update my limit to 2,50,000.",Neutral
+107,"Please confirm that you want to update the limit for online transaction to 2,50,000.",Neutral
+108,Yes.,Positive
+109,"Congratulations,I have updated your limit,You can now spend up to,2,50,000 for online transactions,Is there anything else I can help you with?",Positive
+110,"Yes, I want to talk to your,Agent.",Positive
+111,Please wait while we are transferring this call to our agent.,Neutral
+112,"Welcome to celebal Technologies IVR Automation demo,I can help with bank related queries.",Positive
+113,Hello.,Neutral
+114,"Hello,I am Prashanth calling from celebal tech bank,Am I talking to Mr Manoj?",Neutral
+115,Yes you are.,Positive
+116,"Thanks for confirming your name, Mr Manoj,This call is being recorded by celebal tech Bank for security reasons. Please do not share your CVV and OTP with anyone.",Positive
+117,Sure.,Neutral
+118,"I can see that you have recently done the transaction of 42,000 from Flipkart on 16th October 2021 through your credit card,You can instantly get this amount converted into EMI. Would you like to convert this transaction into EMI?",Neutral
+119,"I am ready to pay,Full pay payment.",Positive
+120,"That's great, Sir,But the EMI offer will reduce your one time payment burden,So please allow me to suggest you a great offer.",Positive
+121,"No, I don't want to opt for EMI.",Negative
+122,"OK,Sir by opting for EMI, you won't block a big amount and it won't affect your monthly budget,So should I proceed?",Positive
+123,"Yes, proceed.",Positive
+124,"That's great, Sir,We have customized offer available for you,You can choose from 4/8 and 11 months EMI,What, tenure period you want to pick?",Positive
+125,"What is,Tenure period.",Neutral
+126,"Sir, that tenure period is the number of month in which you pay your EMI for the transaction amount,So can you please tell me the tenure period?",Neutral
+127,What will be the monthly payment for six month EMI option.,Neutral
+128,"Sure,According to the tenure period of six months,The monthly amount payable will be,5426,It will consist of 12% plus tax on the interest amount,Should I proceed?",Neutral
+129,"Tell me the monthly,Payment for 12 months. EMI.",Neutral
+130,"Sure, according to the tenure period of 12 months, the monthly amount payable will be,4023 it will consist of 12% plus tax on the interest amount. Should I proceed?",Neutral
+131,I want four month EMI option.,Neutral
+132,"Sure,Let me brief you,According to the tenure period of four months, your first EMI installment will be 10,670, with the interest rate of 12%,And there is also a one time processing fee applicable which will be of 250 excluding service tax,This processing fee plus your first EMI,Will be included in your upcoming bill. Should I proceed?",Neutral
+133,Is this processing fee applicable only once?,Neutral
+134,"Yes, absolutely, Sir. It will be charged only once. Should I proceed?",Positive
+135,How much processing fee will be charged?,Neutral
+136,"After the confirmation, a processing fee of 250 + 16% GST will be added to your first installment. So should I proceed?",Neutral
+137,Can you repeat the details again?,Negative
+138,"Of course,Let me brief you again,According to the tenure period of four months,Your first EMI installed installments will be 10,670 with the interest rate of 12%,And there is also a one time processing fee applicable which will be of 250 excluding service tags,Please help me confirming few details like credit limit and postal code before I book your EMI.",Neutral
+139,But you told me not to share any details.,Negative
+140,"Sir, I am not asking for sensitive information. We need this details for verification purpose.",Neutral
+141,"Then,It's OK.",Neutral
+142,Thank you. Can you tell me your credit limit?,Positive
+143,"My credit limit is 95,000.",Neutral
+144,"Thank you for confirming your credit limit,Can you help me with your postal code?",Positive
+145,My postal code is 367523.,Neutral
+146,"Thank you for providing the details,Your request has been captured and your transaction of 42,000 will get converted into EMI within three working days,You will get confirmation SMS to your registered mobile number as well as the soft copy to your registered mail address with EMI breakup details,Do you want to,No, about preclosure charges.",Positive
+147,Yes.,Positive
+148,"So if you want to pre close your EMI then on individual transaction minimum 350 or 5% on remaining amount plus tax will be applicable on,Preclosure charges,Hope I conveyed the information properly.",Neutral
+149,Yes.,Positive
+150,"You have unlocked a special credit card upgrade limited,Offer on your card,We will be happy to increase your credit limit from 95,000 to 1,80,000 after your confirmation.",Positive
+151,"Yes, I want to,Upgrade.",Positive
+152,"Congratulations, your credit limit is upgraded. You can now spend up to 1,80,000 on your credit card. Thank you for your valuable time. Keep banking with sellable tech bank.",Positive
+153,"I am not happy with current conversation. I want to talk to your,Agent.",Negative
+154,"Please wait while we are transferring this call to,Our agent.",Neutral
+155,Welcome to the IVR automation demo by celebal tech.,Neutral
+156,"Hello, how are you?",Neutral
+157,"I'm fine. CT is a health insurance company. I am Prashanth, how can I assist you today?",Positive
+158,I have a health-care plan with you. I wanted to know when I'd have to update the policy.,Neutral
+159,"Of course, I can do that, but could you please advise few details like registered mobile number before I give you the necessary details?",Neutral
+160,"Yes, my mobile number is 9996668887.",Positive
+161,I can tell you that we have an active health-care plan. Can you please provide your name and date of birth for authentication?,Positive
+162,"Yes, my name is Manoj, and my date of birth is 20 June 1999.",Positive
+163,"Thanks for the update, I can see that your policy is due for renewal on August 25th 2021, which is in,Two weeks from now. You can renew either for one year or two years.",Positive
+164,I want to go for a two-year plan.,Neutral
+165,"For the renewal of this option, would you like me to create a payment link?",Neutral
+166,"Yes, sure.",Positive
+167,"Yes, I will post the link with you shortly.",Positive
+168,I have a question who all it protects,Neutral
+169,"Yes, your new insurance protects you, your spouse, and your parent.",Neutral
+170,"OK, can you give me the payment link?",Neutral
+171,"Of course, you will get a payment link on your registered phone number and email address.",Positive
+172,Thank you.,Positive
+173,"I'm glad to see you on the IVR Automation demo, because I can help with bank related questions.",Positive
+174,Hello.,Neutral
+175,"Hello, I am Prashanth, a celebal banker. Am I talking to Mr Manoj?",Neutral
+176,"Yes, you are.",Neutral
+177,"Thanks for sharing your name Manoj. This call is being monitored by a celebal bank for safety reasons, so please do not reveal your CVV and OTP with anyone.",Positive
+178,"Yes, sure.",Positive
+179,"You can now convert this amount from Flipkart's 20,000  on 16 October 2021 using your credit card. Would you like to convert this amount into EMI?",Neutral
+180,I'm able to pay in full.,Positive
+181,"Sir, that's fantastic, but the EMI service will eliminate your one-time payment burden, so please allow me to recommend a great deal.",Neutral
+182,"No, I don't want to go for the EMI route.",Negative
+183,"Sir, you won't block a lot and it won't have no effect on your monthly budget, so why bother?",Neutral
+184,"No, I am content with the complete payment method.",Negative
+185,"Sir, that's fantastic. Thank you so much for your time.",Positive
+186,Thank you.,Positive
+187,"Hello, I am Prashanth from Celebal Tech Bank. What do you like to hear about the offer?",
+188,Yes.,
+189,"This call is being recorded by a Celebal tech bank, but please do not reveal your CVV and OTP with anyone, as shown here.",
+190,"Rather than a mortgage, I want a loan.",
+191,What kind of loan do you need?,
+192,Can you repeat?,
+193,"Yes, Sir, what kind of loan you need?",
+194,Car loan is available.,
+195,How much money you'll need for this loan?,
+196,I didn't get you. Can you repeat?,
+197,"Yes, Sir, how much money you'll need for this loan?",
+198,I need about seven Lac.,
+199,Could  you please tell me your registered mobile number?,
+200,"Yeah, sure, my mobile number is 9586236435.",
+201,"Have entered your details, Our customer representative will reach out to you shortly, so keep banking with a celebrity tech bank.",
+202,Thank you.,
+203,Welcome to the premiere of a Celebal tech IVR automation demonstration.,Neutral
+204,How are you?,Neutral
+205,"Hello, I'm fine. Prashanth is my name. How can I assist you today?",Positive
+206,I want to know more about my Insurance policy.,Neutral
+207,"Of course, I can do that, but could you please give me a few details before I give you the necessary details?",Neutral
+208,"Yes, sure. My phone number is 9956565232.",Positive
+209,I can tell you that you have a current health-care plan with us.,Neutral
+210,"Yes, my name is Manoj, and my date of birth is June 1970.",Positive
+211,"Thanks for the update. I can see that your policy is due for renewal on March 28th, which is just one week from now. You can renew one year or two years, and two years are 26,000.",Positive
+212,I want to go for a one-year plan.,Neutral
+213,Would you like for me to create a payment link for this option?,Neutral
+214,Yes.,Positive
+215,"Yes, I will post the link with you shortly.",Positive
+216,I have a doubt who will be covered by this policy.,Negative
+217,"Make your new policy protect you, your spouse, and your parent.",Neutral
+218,"OK, please send me the payment reminder.",Neutral
+219,"Of course, you will get a payment link on your new phone number.",Positive
+220,"Welcome to celebal Technologies IVR Automation demo,I can help with bank related queries.",Neutral
+221,Hello.,Neutral
+222,"Hello, I am Prashanth calling from celebal bank,Am I talking to Mr Manoj?",Neutral
+223,Yes you are.,Positive
+224,"Thanks for confirming your name Manoj,This call is being recorded by celebal Bank for security reasons. Please do not share your CVV and OTP with anyone.",Positive
+225,Sure. OK.,Neutral
+226,Could you please tell me your registered mobile number?,Neutral
+227,My mobile number is 8964852365.,Neutral
+228,"Thanks for confirming your mobile number. I can see that you have recently done the transaction of 42,000 from Flipkart on 16th October 2021 through your credit card,You can instantly get this amount converted into EMI,Would you like to convert this transaction into EMI?",Positive
+229,I am ready to pay full payment.,Neutral
+230,"That's great, Sir,But the EMI offer will reduce your one time payment burden, so please allow me to suggest you a great offer.",Positive
+231,"No, I don't want to go for EMI option.",Negative
+232,"Sir, by opting for EMI, you won't block a big amount and it won't affect your monthly budget,So should I proceed?",Positive
+233,"No,I am happy with full payment option.",Negative
+234,"That's great, Sir. Thank you for your valuable time. Keep banking with celebal tech bank. Thank you.",Positive
+235,Thank you.,Positive
+236,"I am Prashanth from Celebal Tech Bank.We have an EMI package specially designed for you,Would you like to know more about the product?",Neutral
+237,"No, I am not interested.",Negative
+238,"Sir, I respect that. However, I respect that you're opting for an EMI, you ensure that your monthly budgeting will be more accurate.",Neutral
+239,"I'm occupied right now, so call me tomorrow.",Neutral
+240,"Yes, Sir,Will be back to you tomorrow. Thank you.",Positive
+241,"Hi, I am Prashant from a celebal tech bank. We have an EMI offer made specifically for you. Would you like to know more about the product?",Neutral
+242,"No, I am not interested.",Negative
+243,"Sir, I respect that. However, you will not be able to know exactly how much money you will need to pay for each month by opting for an EMI.",Neutral
+244,"Yes, please continue.",Positive
+245,"This call is being recorded by a celebal tech bank, please do not reveal your CVV and OTP with anyone, as well as a transaction of 27,000 on myntra,Would you like to convert this into EMI?",Neutral
+246,"No, not this one.",Negative
+247,"OK, I can also see a 32,000 transaction on Amazon. Would you like to turn this into EMI?",Neutral
+248,"No, I want the transaction done on Snapdeal.",Neutral
+249,"That's fantastic, you've made a snapdeal deal worth 26,500. Would you like to turn this into EMI?",Positive
+250,"Yes, convert this one.",Positive
+251,"Sir,You can choose from three, seven, and eleven months of service. What tenure period would you be interested in?",Positive
+252,I didn't get you. Can you repeat?,Neutral
+253,"Sir, that's a good choice. You can choose from three, seven, and eleven months of service.",Neutral
+254,What is the tenure period?,Neutral
+255,"Sir, this is the number of months in which you pay your EMI for the transaction amount.",Neutral
+256,"So, please tell me the tenure period. The seven-month EMI option will cost me more.",Neutral
+257,"Yes, according to the seven-month tenure, the monthly amount payable would be 4143. It would include 13% more interest.",Neutral
+258,What will be the monthly payment for the ten-month EMI option?,Neutral
+259,"Yes, the monthly amount payable will be 2818, but it will include 13% more in interest income.",Neutral
+260,I like the seven-month option.,Positive
+261,"Yes, let me tell you that your first EMI installment will be 4143, with the interest rate at 13% and a one-time processing fee of 350 excluding service tax.",Neutral
+262,"Yes, please proceed.",Positive
+263,"Mr Manoj, the total transaction amount is 26,500, and the EMI will be 4143 for seven months of EMI, that is, EMI, which will continue to decrease every month.",Neutral
+264,Hold on for a second.,Neutral
+265,"Yes, I will hold. Please let me know when to return.",Neutral
+266,"Yes, please continue.",Positive
+267,"Yes, I was saying, Mr Manoj, the total transaction amount is 26,500, and the EMI will be 4143 for seven months of EMI. The EMI will be reduced every month, so I hope all the details are clear.",Neutral
+268,"Ohk, we'll go.",Neutral
+269,"Sir, thank you. The EMI amount will be temporary and held in your credit card limit, but when you pay your EMI, the limit will be revealed.",Neutral
+270,"However, you told me not to reveal any information.",Neutral
+271,"Sir, I'm not asking for sensitive information. We need these details for verification purposes.Should I proceed?",Neutral
+272,"Yes, please continue.",Positive
+273,Thank you. Can you tell me your credit limit?,Neutral
+274,"My credit score is 95,000.",Neutral
+275,Thanks for revealing your credit limit. Can you please help me with your postal code?,Neutral
+276,My postal code is 42568.,Neutral
+277,Thanks for revealing your postal code. Can you please help me with your date of birth?,Neutral
+278,It was May 1960.,Neutral
+279,"We're done, and you'll get an email update shortly. Keep banking with the celebal.",Positive
+280,"IVR Automation demo, welcome to celebal technologies. IVR Automation demo I can help with bank related problems.",Neutral
+281,I want to update my online transaction limit for my credit card.,Neutral
+282,Could  you please tell me your registered mobile number?,Neutral
+283,"Yeah, sure, my mobile number is 7896523642.",Positive
+284,"Good,I can help with the change of your credit card's transaction limit, but I can see that your new limit for online transactions is set to 30,000, depending on how much you want to set the new limit to.",Neutral
+285,"I want to update my current limit to 60,000.",Neutral
+286,"Please advise that you intend to raise the online transaction threshold to 60,000.",Neutral
+287,Yes.,Positive
+288,"Congratulations, I have increased your limit for online transactions. Is there anything else I can help you with?",Positive
+289,I want to raise the credit limit.,Neutral
+290,"Sure, I can help with the upgrade of your credit card to 60,000, but I'm not sure how much you'd like to set the new limit.",Neutral
+291,"I want to bring it up to 65,000.",Neutral
+292,"Please advise that you intend to change the limit for online transactions to 65,000.",Neutral
+293,"No, I changed my mind.",Negative
+294,I have turned down your request for an upgrade limit. Is there anything else I can help with?,Neutral
+295,"Yes, I want to talk to an agent.",Neutral
+296,Please wait while we're calling our agent.,Neutral
+297,"I am Prashanth, a celebal tech bank. We have an EMI package that has been specially designed for you. Would you like to know more about the product?",Neutral
+298,"Yes, sure.",Positive
+299,"This call is being recorded by a celebal tech Bank for security reasons, so please do not reveal your CVV and OTP with anyone, as I can see a transaction of,39,000 on Flipkart. Would you like to turn this into EMI?",Neutral
+300,"Yes, convert this one.",Positive
+301,"Sir, that's a good pick, but could you please specify what tenure you're interested in?",Positive
+302,Describe the monthly EMI for a six-month tenure.,Neutral
+303,"Yes, according to the six-month tenure, the monthly amount payable would be 4714.Should I proceed?",Neutral
+304,"No, I haven't changed my mind. I'm able to pay full.",Neutral
+305,"Sir, that's fantastic, but the EMI option will minimize your one-time payment burden, so please allow me to recommend a great deal.",Positive
+306,"No, I don't want to go for the EMI route.",Negative
+307,"Sir, you won't block a lot and it won't have no effect on your monthly budget, so why bother?",Neutral
+308,"No, I am able to pay in full.",Neutral
+309,"Sir, that's fantastic. Thank you so much for your time.",Positive
+310,Thank you.,Positive
+311,"Mr Manoj, a celebal tech bank credit card, is grateful to have a special EMI facility on your card so that you can convert your purchases over 2500 into simple monthly installments and enjoy paying back and simple in settlements.",Neutral
+312,"Okay, go ahead.",Positive
+313,Please allow me to disclose the particulars of this EMI bid.,Neutral
+314,"Yes, please go ahead.",Positive
+315,"Sir, thank you so much. You can now convert this amount from chroma to EMI by clicking on your credit card on May 31st, 2021.",Neutral
+316,"Yes, please go ahead.",Positive
+317,"We have tailored EMI plans for you,Which will be worth 2550 per month for the first nine months. The EMI monthly income will be paid in full by 16% plus 16% plus interest amount.",Neutral
+318,"No, the interest rate in Affects is too high.",Negative
+319,"No problem, we can offer you a special interest rate. According to the new offer, the interest rate will be 14% and your monthly EMI amount will be 5186 for the duration of 16 months.",Neutral
+320,No. This service cycle is too long.,Negative
+321,That's no problem; we can change the tenure based on your needs. Please let me know what tenure you are looking for.,Neutral
+322,I want ten months only.,Neutral
+323,"Yes, we have just the right deal for ten months. The interest rate, Applicable, will be 14%, and the monthly EMI will be 2276, where the tenure period of ten months will be ten months.",Positive
+324,"Yes, please continue.",Positive
+325,"That's great, because we can share the charges and estimation of the monthly EMI. You can also pay the service tax on your first EMI, which will be included in your new bill.",Positive
+326,My postal code is 6236980.,Neutral
+327,"Thank you for letting me know, what your current credit limit is.",Neutral
+328,My credit limit is 60000.,Neutral
+329,"Thanks for reporting the details. Your transaction will be converted into EMI within two working days,Sir, you will be sent a text message confirming your EMI number, and if you have used any reward point on this particular deal, it will be canceled. If you have used any reward point, please advise me that an individual transaction, whether you're higher or not, will be applicable, and tax will be levied.",Neutral
+330,That's no problem.,Neutral
+331,"On your card, you have unlocked a special credit card upgrade limit. We're going to increase your credit limit from 60,000 to 90,000 after your approval.",Positive
+332,"Yes, I want the credit limit to be upgraded.",Positive
+333,Could  you please tell me your registered mobile number?,Neutral
+334,"Yeah, sure, my mobile number is 9886564258.",Neutral
+335,"Congratulations, your credit limit has been raised. You can now spend up to 90,000 on your credit card.",Positive
+336,Thank you.,Positive
+337,"Hello, everyone. Celebal technologies power this IVR automation for banking.",Neutral
+338,Okay.,Neutral
+339,"I am Prashanth, a celebal tech bank. We have an EMI package that has been specially designed for you. Would you like to know more about the product?",Positive
+340,"Yes, I want to know.",Positive
+341,"This call is being recorded by a celebal tech bank, but please do not reveal your CVV and OTP with anyone, as shown here. Would you like to turn this into EMI?",Neutral
+342,"No, not this one.",Negative
+343,"OK, I can also see a 25,000 transaction on,Nyka would you like to convert this into EMI.",Neutral
+344,I want the transaction to be completed on Nyka.,Neutral
+345,"That's fantastic,On Nyka, you've made a 25,000 purchase, would you like to turn this into EMI?",Positive
+346,I didn't get you. Can you repeat?,Negative
+347,"That's fantastic, you've made a 25,000 purchase on nyka. Would you like to turn this into EMI?",Positive
+348,Hold on for a second.,Neutral
+349,"Yes, I will hold. Please let me know when to return.",Neutral
+350,"Yes, what  you were saying.",Neutral
+351,"Yes, I was saying that it's awesome. You've made a 25,000 on nyka deal. Would you like to turn this into EMI?",Positive
+352,"Yes, sure.",Positive
+353,"Sir,Could you please inform at what tenure you are interested in?",Neutral
+354,What is the tenure period?,Neutral
+355,"The tenure period is the number of months in which you pay your EMI for the transaction amount, so please tell me, the tenure period.",Neutral
+356,What will be the monthly payment for the 9-month EMI option?,Neutral
+357,"Yes, according to the nine-month tenure, the monthly sum payable would be 1,1600, which would include 12% more interest.",Neutral
+358,I want a six-month EMI option.,Neutral
+359,"Yes, let me tell you. Your first EMI installment will be 2171, with the interest rate of 12%. Also, there will be a one-time processing fee that will be included in your new bill.",Neutral
+360,What if I preclose this EMI?,Neutral
+361,"Your total transaction amount is 25,000, and the EMI will be 2171 for six months of EMI. The EMI will continue to decline every month, so I hope the details are clear.",Positive
+362,"Yes, please proceed.",Positive
+363,"Sir, the EMI amount will be temporarily held in your credit card limit, and when you pay your EMI, the limit will be revealed.",Neutral
+364,Can you repeat?,Negative
+365,"Sir, thank you. The EMI amount will be temporarily held in your credit card limit, and when you pay your EMI, the limit will be revealed.",Positive
+366,"However, you told me not to reveal any information.",Negative
+367,"Sir, I am not asking for sensitive information. We need this information for verification purposes. So what should we do?",Neutral
+368,Yes.,Positive
+369,Thank you. Can you tell me your credit limit?,Positive
+370,"My credit score is 90,000.",Neutral
+371,Thanks for revealing your credit limit. Can you please help me with your postal code?,Positive
+372,My postal code is 263139.,Neutral
+373,Thanks for revealing your postal code. Can you please help me with your date of birth?,Positive
+374,2nd May 1975.,Neutral
+375,"Thanks for revealing your date of birth, Could  you please tell me your registered mobile number?",Positive
+376,"Yeah, sure, my mobile number is 8562478926.",Neutral
+377,"We're all set, and you'll get an email update shortly. Thank you so much.",Positive
+378,Thank you.,Positive
+379,"Hello, everyone. Celebal technologies power this IVR automation for banking.",Positive
+380,Hi.,Positive
+381,"Hello, I am Prashanth from Celebal Tech Bank. We have an EMI offer made specifically for you. Do you want to know more about this product?",Positive
+382,"Yes, sure.",Positive
+383,"This call is being handled by a celebal tech bank, so please do not reveal your CVV and OTP with anyone for security reasons.",Neutral
+384,"Rather than a mortgage, I want a loan.",Negative
+385,What kind of loan do you need?,Neutral
+386,"For my masters, I need a research loan.",Neutral
+387,How much money will you need for this loan?,Neutral
+388,I need 9 Lacs.,Neutral
+389,"I have locked your details,will we speak to you soon? Thank you.",Positive
+390,Thank you so much.,Positive
+391,"Hello, everyone. Celebal technologies power this IVR automation for banking.",Positive
+392,Hi.,Positive
+393,I am Prashanth from Celebal tech bank. We have an EMI offer made specifically for you. Do you want to know more about this product?,Positive
+394,"Yes, sure.",Positive
+395,"This call is being recorded by a celebal tech bank, Please do not reveal your CVV and OTP with anyone for security reasons.",Neutral
+396,I need a loan.,Neutral
+397,What kind of loan do you need?,Neutral
+398,Home loan.,Neutral
+399,How much money will you need for this loan?,Neutral
+400,"I need 25,00,000.",Neutral
+401,"I have saved your information, and our customer representative will reach out to you shortly. Thank you.",Positive
+402,Thank you so much.,Positive
+403,"Hello, everyone. Celebal technologies power this IVR automation for banking.",Positive
+404,Hi.,Neutral
+405,"I am Prashanth, a celebal tech bank, and we have an EMI offer made for you. Would you like to know more about it?",Neutral
+406,"Yes, sure.",Positive
+407,"This call is being recorded by a celebal tech bank, but please do not reveal your CVV and OTP with anyone, as I can see a transaction of 25,000 on Amazon. Would you like to turn this into EMI?",Neutral
+408,"Yes, convert this one.",Positive
+409,"Sir, that's a good idea. Could you please specify what tenure you're interested in?",Positive
+410,Describe the monthly EMI for a six-month tenure.,Neutral
+411,"Yes, according to the six-month tenure, the monthly amount payable would be 5432, and it would include 12% more interest.",Positive
+412,"No, I want to talk to your agent.",Negative
+413,"OK, please wait while we're calling our agent.",Neutral
+414,"IVR atuomation demo, I can assist with bank related problems.",Neutral
+415,I want to upgrade my online transaction limit for my credit card.,Positive
+416,"Yes, I can help with the change on your credit card, but I can see that your new limit is set to,Two Lacs, for online transactions. You can also specify how much money you would like to set the new limit.",Positive
+417,"I want to raise my ceiling to 2,50,000.",Neutral
+418,"Please advise that you intend to raise the ceiling for online transactions to 2,50,000.",Neutral
+419,Yes.,Positive
+420,"Congratulations, I have raised your ceiling. You can now spend up to 2,50,000 for online transactions. Is there anything else I can help you with?",Positive
+421,"Yes, I want to talk to your agent.",Positive
+422,Please wait while we're calling our agent.,Neutral
+423,"Hi,I am Prashanth calling you from Celebal Tech Bank,We have an EMI offer specially created for you,What do you like to know more about the offer?",Positive
+424,Yes.,Positive
+425,"This call is being recorded by celebal tech Bank,For security reasons, please do not share your CVV and OTP with anyone,As I can see here,Transaction of 57,000 done on Flipkart. Would you like to convert this into EMI?",Neutral
+426,I want a loan instead.,Neutral
+427,What type of loan you required?,Neutral
+428,Can you repeat again?,Neutral
+429,"Sure, Sir,What type of loan you required?",Positive
+430,Car loan.,Neutral
+431,How much amount you will need for this loan?,Neutral
+432,I didn't get you. Can you repeat?,Negative
+433,"Sure, Sir,How much amount you will need for this loan?",Neutral
+434,I need about seven Lac.,Neutral
+435,"Have logged your details,Our customer representative will reach out to you soon, keep banking with celebal tech bank.",Positive
+436,Thank you.,Positive
+437,"I'm glad to see you on the IVR Automation demo, because I can help with bank related questions.",Positive
+438,Hello.,Positive
+439,"I am Prashanth, a celebal tech bank, am I talking to Mr Manoj?",Neutral
+440,"Yes, you are.",Positive
+441,"Mr Manoj, thank you for sharing your name. This call is being monitored by a celebal tech bank for safety reasons. Please do not reveal your CVV and OTP with anyone else.",Neutral
+442,"Yes, sure.",Positive
+443,"I can see that you have recently completed the conversion of 42,000 from Flipkart on October 16th 2021, using your credit card. You will then convert this amount into EMI.",Neutral
+444,I am able to pay with full pay.,Positive
+445,"Sir, that's fantastic, but the EMI payment plan will save you from having to pay one time, so please allow me to recommend a great deal.",Positive
+446,"No, I don't want to go for EMI.",Negative
+447,"OK, so you can't block a significant amount and it won't have no effect on your monthly budget if you go for EMI.",Positive
+448,"Yes, please proceed.",Positive
+449,"Sir, that's fantastic, Sir, We have a customised offer for you. You can choose between 4/8 and 11 months EMI.",Positive
+450,What is the time of a tenure?,Neutral
+451,"Sir, this is the number of months in which you pay your EMI for the transaction amount. So can you please tell me the tenure period?",Neutral
+452,"However, the monthly payment for the six-month EMI option will be deferred.",Neutral
+453,"Yes, according to the six-month contract, the monthly amount payable would be 5426, but it would include 12% more in interest income.Should I proceed?",Positive
+454,EMI. Tell me the monthly payment for 12 months.,Neutral
+455,"Yes, according to the 12 month tenure, the monthly amount payable would be 4023, which would include 12% more interest income.",Neutral
+456,I want a four-month EMI option.,Neutral
+457,"Yes,Let me brief you, according to the four-month tenure, your first EMI installment will be 10,670 with the exception of service tax.",Neutral
+458,Is this processing fee only valid once?,Neutral
+459,"Yes, absolutely, Sir. It will only be charged once.",Positive
+460,How much processing fee will be charged?,Neutral
+461,So what should be done after the announcement? A processing fee of 250 + 16% will be added to your first installment.,Neutral
+462,Can you repeat the information again?,Negative
+463,"Of course, let me briefly outline your first EMI installments, which will be 10,670 with the interest rate of 12%.",Neutral
+464,"However, you told me not to reveal any information.",Negative
+465,"Sir, I am not asking for sensitive information. We need this information for verification purposes.",Neutral
+466,"It's OK,'s fine.",Positive
+467,Thank you. Can you tell me your credit limit?,Positive
+468,"My credit score is 95,000.",Neutral
+469,Thank you for revealing your credit limit. Can you help me with your postal code?,Positive
+470,My postal code is 367523.,Neutral
+471,"Thank you for sharing the information.Your order has been captured and your transaction of 42,000 will be converted into EMI within three working days, as well as a downloadable copy with EMI breakup information.",Positive
+472,Yes.,Positive
+473,"If you want to pre close your EMI, then on individual transaction minimum 350 or 5% will be levied on remaining amount plus tax, according to Hope I.",Neutral
+474,Yes.,Positive
+475,"You have unlocked a special credit card upgrade, Offer on your card. We're going to increase your credit limit from 95,000 to 1,80,000 after your approval.",Positive
+476,"Yes, I want to Upgrade.",Positive
+477,"Congratulations, your credit limit has been raised. You can now spend up to 1,80,000 on your credit card.",Positive
+478,I am not happy with the current chat. I want to talk to your agent.,Negative
+479,Please wait while we are transferring this call to our agent.,Neutral
+480,Welcome to celebal Tech IVR automation demo.,Neutral
+481,"Hi, how are you?",Positive
+482,"Hello, I'm fine. Thank you for calling CT insurance. My name is Prashanth. How can I help you today?",Positive
+483,"I want to know,About my,Insurance policy.",Neutral
+484,"Of course I can do that,Could you please confirm a few details before I give you the necessary information,Could you please tell me your registered mobile number?",Neutral
+485,"Yes, sure. My mobile number is 9956565232.",Positive
+486,I can confirm that you have active health insurance policy with us. Can you confirm your name and date of birth for authentication?,Positive
+487,Sure. My name is Manoj and my date of birth is 6th June 1970.,Positive
+488,"Thanks for confirmation. I can see that your policy is due for the renewal on 28th March 2022, which is in one week from now,You can renew either for one year or two years. The one year option is 17,000 and two year option is 26,000.",Positive
+489,I want to opt for one year option.,Positive
+490,Would you like me to generate a payment link of renewal for this option?,Neutral
+491,Yes.,Positive
+492,"Sure, I will share the link with you shortly.",Positive
+493,I have a doubt who all will this policy cover?,Negative
+494,"Set your current policy covers you, your spouse, and your parent.",Neutral
+495,"OK, please send me the payment reminder.",Neutral
+496,Of course you will receive a payment link on your registered mobile number.,Neutral
+497,"Hi,I am Prashanth calling you from Celebal Tech Bank,We have an EMI offers specially created for you,Would you like to know more about the offer?",Positive
+498,"No, I am not interested.",Negative
+499,"I respect that, Sir,But by opting for an EMI, my you're not blocking huge cash, which makes your personal budgeting for the month easier,You can also get to know precisely how much money you need to pay towards the EMI each month,Would you like to know about the offer?",Positive
+500,I'm busy right now. Can you call me tomorrow?,Negative
+501,"Sure, Sir,Will get back to you tomorrow. Have a great day ahead. Thank you.",Neutral
+502,"Hi I am Prashant calling you from celebal tech bank,We have an EMI offer specially created for you,Would you like to know more about the offer?",Positive
+503,"No, I am not interested.",Negative
+504,"I respect that, Sir,But by opting for an EMI,You are not blocking huge cash which makes your personal budgeting for the month easier,You can also get to know precisely how much money you need to pay towards the EMI each month,Would you like to know about the offer?",Positive
+505,"Yes, go on.",Positive
+506,"This call is being recorded by celebal tech Bank,For security reasons, please do not share your CVV and OTP with anyone,As I can see a transaction of 27,000 done on myntra,Would you like to convert this into EMI?",Neutral
+507,"No, not this one.",Negative
+508,"OK, I can also see a transaction of 32,000 done on Amazon. Would you like to convert this into EMI?",Neutral
+509,"No, I want the transaction done on Snapdeal.",Negative
+510,"That's great,You have done a transaction of 26,500 on Snapdeal. Would you like to convert this into EMI?",Positive
+511,"Yes, convert this one.",Positive
+512,"That's a great choice, Sir,You can choose from the tenure period of three, seven, and eleven months,What tenure period would you be interested in?",Positive
+513,I didn't get you. Can you repeat?,Negative
+514,"That's a great choice, Sir. You can choose from the tenure period of three, seven and eleven months. What tenure period would you be interested in?",Positive
+515,What is tenure period?,Neutral
+516,"Sir, that tenure period is the number of month in which you pay your EMI for the transaction amount,So can you please tell me the tenure period?",Neutral
+517, Tell me the monthly payment for seven month EMI option.,Neutral
+518,"Sure, according to the tenure period of seven months, the monthly amount payable will be 4143,It will consist of 13% plus tax on the interest amount. Should I proceed?",Neutral
+519,What will be the monthly payment for 10 month EMI option?,Neutral
+520,"Sure, according to the tenure period of 10 months, the monthly amount payable will be 2818. It will consist of 13% plus tax on the interest amount. Should I proceed?",Neutral
+521,Then I want seven month option.,Positive
+522,"Sure. Let me brief you according to the tenure period of seven months, your first EMI installment will be 4143,With the interest rate of 13% and there is also a one time processing fee applicable which will be of 350 excluding service tax,This processing fee plus your first EMI will be included in your upcoming bill. Should I proceed?",Neutral
+523,"Yes, proceed.",Positive
+524,"Mr Manoj, you were total transaction amount is 26,500 and the EMI will be 4143 for seven months of EMI,That, EMI,  consist of principal amount plus tax on the interest which will keep on reducing every month. I hope all the details are clear. Should I proceed?",Neutral
+525,Hold on for a second.,Neutral
+526,"Sure, I will hold. Please let me know when to continue.",Neutral
+527,"Yes, continue.",Positive
+528,"Sure. I was saying, Mr Manoj, you are total transaction amount is 26,500 and the EMI will be 4143 for seven months of EMI,The EMI consist of principal amount plus tax on the interest which will keep on reducing every month. I hope all the details are clear. Should I proceed?",Neutral
+529,Ohk OK proceed.,Positive
+530,"Thank you, Sir,That EMI amount will be temporary, kept on hold in your credit card limit,And when you pay your EMI, the limit will be released. Hope you are clear with this information. Please confirm few details like credit limit and date of birth.",Positive
+531,But you told me not to share any details.,Negative
+532,"Sir, I'm not asking for sensitive information. We need these details for verification purpose,Should I proceed?",Neutral
+533,"Yes, go on.",Positive
+534,"Thank you,Can you tell me your credit limit?",Positive
+535,"My credit limit is 95,000.",Neutral
+536,Thanks for confirming your credit limit. Can you please help me with your postal code?,Positive
+537,My postal code is 42568.,Neutral
+538,Thanks for confirming your postal code. Can you please help me with your date of birth?,Positive
+539,20 May 1960.,Neutral
+540,"We are all done,Then you will receive an email update shortly. Have a wonderful day ahead. Keep banking with celebal tech bank.",Positive
+541,"Welcome to celebal technologies IVR Automation demo,I can help with bank related queries.",Positive
+542,I want to update my online transaction limit for my credit card.,Positive
+543,"Good,I can help with updating your transaction limit on your credit card,I can see your current limit is set to 30,000 for online transactions,To what amount you would like to set the new limit to.",Positive
+544,"I want to,Update my new limit to  60,000.",Neutral
+545,"Please confirm that you want to update the limit for online transaction to 60,000.",Neutral
+546,Yes.,Positive
+547,"Congratulations,I have updated your limit. You can now spend up to 60,000  for online transactions,Is there anything else I can help you with?",Positive
+548,I want to upgrade the credit limit.,Positive
+549,"Sure,I can help with updating your transaction limit on your credit card. I can see your current limit is set to 60,000 for online transactions,To what amount you would like to set the new limit too.",Positive
+550,"I want to,Update it to 65,000.",Neutral
+551,"Please confirm that you want to update the limit for online transaction to 65,000.",Neutral
+552,"No, I changed my mind.",Negative
+553,"I have cancelled your update limit request,Is there anything else I can help you with?",Negative
+554,"Yes, I want to talk to an,Agent.",Neutral
+555,Please wait while we are transferring this call to our agent.,Neutral
+556,"Hi,I am Prashanth calling you from celebal Tech Bank,We have an EMI offer specially created for you. Would you like to know more about the offer?",Positive
+557,"Yes, sure.",Positive
+558,"This call is being recorded by celebal tech Bank for security reasons. Please do not share your CVV and OTP with anyone,As I can see a transaction of,39,000 done on Flipkart. Would you like to convert this into EMI?",Neutral
+559,"Yes, convert this one.",Positive
+560,"That's a great choice, Sir,Could you please confirm at what tenure would be,Interested in?",Neutral
+561,Tell me the monthly payment for the tenure of six months.,Neutral
+562,"Sure,According to the tenure period of six months, the monthly amount payable will be 4714. It will consist of 12% plus tax on the interest amount,Should I proceed?",Neutral
+563,"No,I have changed my mind. I'm happy to pay full payment.",Negative
+564,"That's great, Sir, but the EMI offer will reduce your one time payment burden, so please allow me to suggest you a great offer.",Positive
+565,"No,I don't want to go for EMI option.",Negative
+566,"Sir, by opting for EMI you won't block a big amount and it won't affect your monthly budget,Should I proceed?",Neutral
+567,"No,I am happy to pay full payment.",Negative
+568,"That's great, Sir. Thank you for your valuable time. Keep banking with celebal tech bank. Thank you.",Positive
+569,Thank you.,Positive
+570,"Thank you for using celebal tech bank credit card, Mr Manoj,We are pleased to offer a special EMI facility on your card,So that you can convert your purchases above 2500 into easy monthly installments and enjoy paying back and easy in settlements.",Positive
+571,"OK, go ahead.",Positive
+572,Please allow me to share the details of this EMI offer.,Neutral
+573,"Sure. Please go,ahead.",Positive
+574,"Thank you so much, Sir,I can see that you have recently done the transaction of 20,000 from chroma on May 31st, 2021 through your credit card,You can instantly get this amount converted into EMI,Adding an interest rate starting from 14% per annum,Would you like to convert this into EMI?",Positive
+575,"Yes, please go ahead.",Positive
+576,"We have customized EMI options available for you,Which will be of 2550 monthly for the tenure of nine months,The EMI monthly,Amount will consist of 16% plus tax on interest amount,Should I proceed to big book this EMI?",Neutral
+577,"No, you're,An interest rate is too high.",Negative
+578,"No problem. We can provide a special interest rate for you,According to new offer,The interest rate will be 14% and your monthly EMI amount will be,15186 for the tenure of 16 months,Would you like to,Convert this EMI option.",Positive
+579,No. This tenure period is too long.,Negative
+580,"That's no issue. We can change the tenure according to your needs. Please let me know what tenure period you are looking for,The transaction amount of 20,000.",Neutral
+581,I want ten your period for 12 months only.,Neutral
+582,"Sure. We have just the best offer for 10 months tenure period,The interest rate,Applicable will be 14% and the monthly EMI will be,2276, where the tenure period of 10 months, should I proceed booking the EMI option?",Positive
+583,"Yes, please go on.",Positive
+584,"That's great,I believe we can share the charges and calculation of the monthly EMI,Let me once again confirm that,You would like to convert your transaction of 20,000 for 10 tenure of 10 months. The interest rate is 14% per annum and will be charged on monthly balance plus tax applicable on interest amount,There is also a one time processing fee applicable which will be 450 including service tax. This processing fee plus your first EMI will be included in your upcoming bill,Your first EMI will be,2276,Before proceeding with EMI booking option, please confirm your PIN code of your address.",Neutral
+585,6236980,Neutral
+586,Thanks for confirming your PIN code. Please let me know what's your current credit limit is.,Positive
+587,My credit limit is 60000?,Neutral
+588,"Thanks for confirming the details. Your request has been captured,And your transaction will get converted into EMI within two working days,Sir, you will get confirmation SMS to your registered mobile number and you will get,The soft copy to your registered email address which will have the EMI breakup details,Also, let me inform you if you have availed any reward point on this particular transaction, it will be lapsed,If you want to pre close your EMI then an individual transaction,Of minimum 300 or,3% on remaining principle outstanding amount, whichever is higher,Is applicable and tax will be applicable on preclosure charges.",Positive
+589,That's no issue.,Positive
+590,"You have unlocked a special credit card upgrade limit offer on your card,We will be happy to increase your credit limit from 60,000 to 90,000 after your confirmation.",Positive
+591,"Yes, I want the credit limit,Upgraded.",Positive
+592,"Congratulations, your credit limit is upgraded. You can now spend,Up to 90,000 on your credit card. Thank you for your valuable time. Keep banking with celebal tech bank.",Positive
+593,Thank you.,Positive
